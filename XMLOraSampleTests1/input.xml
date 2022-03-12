@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sites>
+	<site>
+		<name>YouTube</name>
+		<url>http://www.youtube.com</url>
+		<visits>100000</visits>
+		<rating>4.5</rating>
+		<started>1999-10-15</started>
+	</site>
+	<site>
+		<name>Twitter</name>
+		<url>http://www.twitter.com</url>
+		<visits>200000</visits>
+		<rating>4.1</rating>
+		<started>2008-11-03</started>
+	</site>
+</sites>
